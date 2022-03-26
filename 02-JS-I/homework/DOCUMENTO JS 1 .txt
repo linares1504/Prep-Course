@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Una variable es una forma de almacenar algo, esta tiene un nombre que la representa y un contenido.
+
+Strings: Una variable de tipo string es un conjunto de caracteres que representan texto
+
+Funciones (argumentos, return): las funciones sirven para calcular junto a las variables, una funcion hace algo especifico como por ejemplo realizar una suma, una resta, combinar strings o palabraas, las funciones contiene argumentos , estos argumentos son los valores que se le dan a la funcion para que esta sea ejecutada, return es una declaracion que nos sirve para devolver algo, en pocas palabras es para devolver el resultado.
+
+Declaraciones if : la declaracion if sirve para hacer una comparacion, por medio de esta declaracion se puede observar si un valor cumple o no con unos parametros ya dichos anteriormente .
+
+Valores booleanos (true, false): estos valores sirven para decir si algo es verdadero o falso.
